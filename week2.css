@@ -1,7 +1,26 @@
 h1 {
     color: blueviolet;
+    background-color: black;
+    scrollbar-darkshadow-color: blanchedalmond;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-p {
-    color: brown;
+
+.judul{
+    color: blueviolet;
+    font-style: inherit;
+    font-family: monospace;
+}
+
+.pertama{
+    color: teal;
+    background-color: bisque;
+}
+.kedua{
+    color: lightcoral;
+    background-color: slategrey;
+}
+
+.ketiga{
+    color: lightcyan;
+    background-color: tomato;
 }
