@@ -24,3 +24,12 @@ h1 {
     color: lightcyan;
     background-color: tomato;
 }
+
+body{
+    background-color: crimson;
+}
+
+#footer{
+    color: black;
+    border: 1px solid whitesmoke;
+}
